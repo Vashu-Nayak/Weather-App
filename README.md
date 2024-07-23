@@ -1,4 +1,4 @@
-Weather-App
+#Weather-App
 Weather-App is a simple React application that fetches and displays weather data using the OpenWeather API. It provides current weather information for any city around the world.
 
 Features
