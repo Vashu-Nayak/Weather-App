@@ -10,7 +10,7 @@ Screenshots
 ![Screenshot 2024-07-23 104946](https://github.com/user-attachments/assets/9b6aebfc-7390-45c6-96c8-3cedc3762024)
 
 Demo
-Check out the live demo [here](https://relaxed-otter-1f4027.netlify.app/).
+Check out the live demo [here](https://reactweather0.netlify.app/).
 
 Getting Started
 Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
